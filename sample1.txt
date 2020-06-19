@@ -1,0 +1,2 @@
+hi, i want to
+remove merge conflict
