@@ -1,2 +1,3 @@
 hi, i want to
 remove merge conflict
+hai merg1 from github
